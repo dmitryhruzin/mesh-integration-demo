@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+#Uniform mesh integration demo
+
+###Contains:
+- Client demo site
+- Mesh app
